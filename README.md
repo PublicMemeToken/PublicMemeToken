@@ -14,7 +14,7 @@
 </p>
 <p align="center">  
 <a>
-Public Meme Token (PMT) is a unique cryptocurrency that has a maximum supply of 1.000.000.000 tokens. It is designed to integrate the world of memes and digital art, providing a platform where users can not only engage with their favorite memes but also stake their loyalty NFTs (Non-Fungible Tokens) to earn PMT tokens.
+Public Meme Token (PMT) is a unique cryptocurrency that has a maximum supply of 2.000.000.000 tokens. It is designed to integrate the world of memes and digital art, providing a platform where users can not only engage with their favorite memes but also stake their loyalty NFTs (Non-Fungible Tokens) to earn PMT tokens.
 Loyalty NFTs are special tokens created by renowned and talented artists who have contributed their exceptional artistry to the PMT ecosystem. These NFTs are not only valuable pieces of digital art but also function as a symbol of loyalty and support for the PMT community.
 By staking their loyalty NFTs, users have the opportunity to earn PMT tokens as a reward. This incentivizes users to hold onto these unique artworks and participate actively in the PMT ecosystem. The more loyalty NFTs a community member stakes, the greater the potential rewards they can earn.
 This concept brings together the worlds of digital art and cryptocurrency, providing artists with exposure and recognition, while users gain the opportunity to earn from their loyalty and involvement in the PMT community. It creates a symbiotic relationship, where artists can showcase their talent and users can benefit from their support.
